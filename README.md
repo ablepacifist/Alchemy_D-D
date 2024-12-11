@@ -15,3 +15,9 @@ if you are Kail or Devon, you don't need to do this
               << "h - Display this help message\n"
               << "eat - consume one ingredient and learn its effects\n"
               << "exit - Exit the program\n";
+# end Program
+to end the program and save all data into the txt files simply enter "exit" comand
+if you dont do this, the program will not save and you will loose all progress
+# Comming update
+next I need to implement a function for foraging ingredients. this will add X amount of Y ingredients
+to the player's inventory depending on the level of the player's Alchemy skill
