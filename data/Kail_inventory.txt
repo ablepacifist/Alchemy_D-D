@@ -1,0 +1,6 @@
+Potion,Seeking,NULL,NULL,NULL,2
+Potion,Restore Health,NULL,NULL,NULL,1
+Ingredient,Tomato,1
+Ingredient,Garlic,12
+Ingredient,Wheat Grain,15
+Ingredient,Apple,10

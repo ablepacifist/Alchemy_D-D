@@ -1,0 +1,45 @@
+1,Damage Health
+2,Restore Health
+3,Dispel
+4,Ethereal
+5,Strength
+6,Mind Reading
+7,Clairvoyance
+8,Intelligence
+9,Fire
+10,Frost
+11,Shock
+12,Light
+13,Wisdom
+14,Shield
+15,Growth
+16,Shrink
+17,Water Breathing
+18,Dexterity
+19,Resist Fire
+20,Resist Shock
+21,Resist Frost
+22,Resist Poison
+23,Resist Paralyze
+24,Invisibility
+25,Silence
+26,Rage
+27,Reflect Damage
+28,Cure
+29,Climbing
+30,Seeking
+31,Tangler
+32,Dream
+33,Magic
+34,Shield
+35,Burden
+36,Constitution
+37,Charisma
+38,Slow
+39,Night Vision
+40,Paralyze
+41,Water Walking
+42,Detect Life
+43,Intelligence
+44,Light
+45,NULL

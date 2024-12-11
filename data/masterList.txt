@@ -1,0 +1,134 @@
+Alkanet Flower,Paralyze,Light,Resist Poison,Slow
+Aloe Vera Leaf,Dream,Magic,Restore Health,Invisibility
+Ambrosia,Fire,Silence,Restore Health,Magic
+ArrowRoot,Dream,Strength,Tangler,Burden
+Apple,Restore Health,Damage Health,Wisdom,Seeking
+Beef,Dream,Constitution,Shield,Dispel
+Bergamot Seeds,Silence,Dispel,Resist Poison,NULL
+Blackberry,Dream,Constitution,Magic,Resist Shock
+Blood Grass,Damage Health,Burden,Charisma,Resist Paralyze
+Boar Meat,Magic,Slow,Constitution,Restore Health
+Bog Beacon Mushroom,Dispel,Strength,Shield,Charisma
+Bonemeal,Strength,Resist Fire,Dexterity,Night Vision
+Bread,Dream,Dexterity,Strength,Detect Life
+Cairn Bolete Mushroom,Shock,Resist Paralyze,Restore Health,Intelligence
+Alkanet Flower,Paralyze,Light,Resist Poison,Slow
+Aloe Vera Leaf,Dream,Magic,Restore Health,Invisibility
+Ambrosia,Fire,Silence,Restore Health,Magic
+ArrowRoot,Dream,Strength,Tangler,Burden
+Apple,Restore Health,Damage Health,Wisdom,Seeking
+Beef,Dream,Constitution,Shield,Dispel
+Bergamot Seeds,Silence,Dispel,Resist Poison,NULL
+Blackberry,Dream,Constitution,Magic,Resist Shock
+Blood Grass,Damage Health,Burden,Charisma,Resist Paralyze
+Boar Meat,Magic,Slow,Constitution,Restore Health
+Bog Beacon Mushroom,Dispel,Strength,Shield,Charisma
+Bonemeal,Strength,Resist Fire,Dexterity,Night Vision
+Bread,Dream,Dexterity,Strength,Detect Life
+Cairn Bolete Mushroom,Shock,Resist Paralyze,Restore Health,Intelligence
+Carrot,Restore Health,Intelligence,Shield,Night Vision
+Cheese,Resist Fire,Wisdom,Dexterity,Tangler
+Cinnabar Polypore Red Cap,Shield,Fire,Charisma,Dispel
+Cinnabar Polypore Yellow Cap,Strength,Magic,Charisma,Reflect Damage
+Harpy Claws,Cure,Paralyze,Resist Poison,Damage Health
+Clouded Funnel Cap,Intelligence,Night Vision,Strength,Light
+Columbine Root Pulp,Resist Frost,Paralyze,Intelligence,Magic
+Corn,Dexterity,Tangler,Resist Shock,NULL
+Crab Meat,Resist Shock,Resist Fire,Shield,Restore Health
+Daemon Heart,Restore Health,Silence,Resist Shock,Magic
+Piranha Veins,Paralyze,Reflect Damage,Damage Health,NULL
+Wolf Tooth,Night Vision,Burden,Resist Frost,Light
+Dragon's Tongue Flower,Resist Fire,Restore Health,Damage Health,NULL
+Ghoul Wax,Resist Poison,Water Breathing,Damage Health,Magic
+Dryad Saddle Mushroom,Resist Frost,Frost,Dexterity,Climbing
+Ectoplasm,Shock,Damage Health,Dispel,Dream
+Elf Cup Cap,Wisdom,Intelligence,Cure,Strength
+Emetic Russula Cap,Shield,Mind Reading,Magic,NULL
+Fennel Seed,Intelligence,Climbing,Paralyze,Mind Reading
+Fire Salts,Fire,Resist Fire,Resist Frost,NULL
+Flax Seeds,Shield,Reflect Damage,Damage Health,Seeking
+Flour,Charisma,Strength,Reflect Damage,NULL
+Fly Amanita Cap,Burden,Shock,Restore Health,Wisdom
+Foxglove Nectar,Resist Poison,Cure,Resist Paralyze,Paralyze
+Frost Salts,Frost,Silence,Resist Frost,Paralyze
+Garlic,Resist Poison,Constitution,Resist Frost,Paralyze
+Ginkgo Leaf,Shock,Reflect Damage,Intelligence,Mind Reading
+Ginseng,Cure,Intelligence,Burden,Magic
+Glow Dust,Light,Damage Health,Reflect Damage,NULL
+Grapes,Water Walking,Dispel,Ethereal,NULL
+Green Stain Cap,Reflect Damage,Mind Reading,Damage Health,NULL
+Ham,Restore Health,Wisdom,Resist Poison,NULL
+Harrada Root,Damage Health,Paralyze,Silence,Climbing
+Imp Gall,Charisma,Fire,Cure,Seeking
+Ironwood Nut,Resist Fire,Wisdom,Constitution,Fire
+Lady's Mantle Leaves,Restore Health,Climbing,Night Vision,Paralyze,NULL
+Lavender Sprig,Dexterity,Strength,Charisma,Intelligence
+Lettuce,Resist Fire,Frost,Charisma,Seeking
+Lichor Flower,Ethereal,Silence,Clairvoyance,Magic
+Mandrake Root,Cure,Wisdom,Resist Poison,Dexterity
+Milk Thistle Seeds,Light,Cure,Frost,Paralyze
+Minotaur Horn,Ethereal,Climbing,Strength,Frost
+Monkshood Root Pulp,Intelligence,Magic,Ethereal,Seeking
+Morning Glory Pulp,Burden,Resist Frost,Wisdom,Tangler
+Mort Flesh,Constitution,Damage Health,Silence,Tangler
+Motherwort Sprig,Resist Poison,Invisibility,Ethereal,Mind Reading
+Mugwort Seeds,Ethereal,Climbing,Mind Reading,Wisdom
+Mutton,Strength,Frost,Dispel,NULL
+Nightshade,Damage Health,Intelligence,Shock,Paralyze
+Ogre Teeth,Resist Paralyze,Strength,Shock,Fire
+Onion,Water Breathing,Detect Life,Damage Health,NULL
+Pear,Dexterity,Water Walking,Reflect Damage,Detect Life
+Peony Seeds,Damage Health,Clairvoyance,Dexterity,Fire
+Potato,Shield,Water Walking,Resist Frost,Dispel
+Primrose Leaves,Charisma,Dream,Strength,Mind Reading
+Pumpkin,Charisma,Water Walking,Detect Life,Climbing
+Purgeblood Salts,Damage Health,Intelligence,Dispel,Wisdom
+Radish,Invisibility,Restore Health,Seeking,Reflect Damage
+Rat Meat,Detect Life,Dexterity,Silence,Seeking
+Redwort Flower,Resist Frost,Damage Health,Cure,Invisibility
+Rice,Tangler,Dexterity,Resist Shock,Wisdom
+Root Pulp,Cure,Restore Health,Strength,Shock
+Lotus Seeds,Resist Frost,Dispel,Damage Health,Seeking
+Lizard Scales,Water Breathing,Water Walking,Constitution,Seeking
+Snake Skin,Resist Shock,Reflect Damage,Climbing,Frost
+Unknown Ingredient,Cure,Dexterity,Shield,Invisibility
+Somnalius Frond,Constitution,Seeking,Mind Reading,Climbing
+Spindle Stick,Fire,Light,Damage Health,Detect Life
+Saint Juan's Wort Nectar,Resist Shock,Invisibility,Cure,Tangler
+Blue Entoloma Cap,Fire,Burden,Resist Frost,Dream
+Stinkhorn Cap,Frost,Water Walking,Charisma,Climbing
+Strawberry,Cure,Restore Health,Intelligence,NULL
+Summer Bolete Cap,Shield,Resist Fire,Charisma,Reflect Damage
+Taproot,Resist Shock,Strength,Resist Poison,NULL
+Tiger Lily Nectar,Wisdom,Water Walking,Invisibility,NULL
+Tinder Polypore Cap,Cure,Invisibility,Wisdom,NULL
+Tomato,Detect Life,Water Breathing,Shield,Climbing
+Troll Fat,Charisma,Resist Frost,Damage Health,Restore Health
+Vampire Dust,Silence,Ethereal,Invisibility,Seeking
+Venison,Restore Health,Seeking,Detect Life,NULL
+Viper Bugloss Leave,Resist Paralyze,Cure,Night Vision,Ethereal
+Void Salts,Damage Health,Shock,Dispel,Seeking
+Water Hyacinth Nectar,Wisdom,Detect Life,Strength,NULL
+Watermelon,Light,Ethereal,Resist Fire,Charisma
+Wheat Grain,Constitution,Ethereal,Charisma,Seeking
+White Seed Pod,Strength,Light,Water Breathing,NULL
+Wisp Stalk Cap,Damage Health,Mind Reading,Dexterity,NULL
+Wormwood Leave,Water Walking,Frost,Restore Health,Tangler
+Spider Eye,Damage Health,Climbing,Dexterity,Tangler
+Werewolf Teeth,Ethereal,Dexterity,Strength,Shock
+Unicorn Horn,Ethereal,Restore Health,Light,Charisma
+Green Moss,Intelligence,Climbing,Silence,Frost
+Snake Venom,Damage Health,Reflect Damage,Invisibility,Seeking
+Sulfur,Damage Health,Fire,Shield,Dream
+Gold Shavings,Restore Health,Charisma,NULL,Reflect Damage
+Beetle Juice,Silence,Ethereal,Wisdom,Dispel
+Iron Bass Gills,Water Breathing,Dexterity,Resist Frost,Magic
+Sea Urchin Spikes,Damage Health,Climbing,Water Breathing,NULL
+Snowberries,Resist Frost,Frost,Dream,Ethereal
+Butterfly Wings,Resist Shock,Shock,Wisdom,NULL
+Torch Bug,Ethereal,Resist Fire,Shock,Wisdom,Tangler
+Boar Horn,Shield,Light,Resist Fire,Tangler
+Trout,Resist Frost,Strength,Water Breathing,Invisibility
+Zabou Mushrooms,Damage Health,Tangler,Slow,NULL
+Whiskey,Wisdom,Strength,Slow,NULL
+Butter,Strength,Restore Health,Tangler,Night Vision

@@ -1,0 +1,3 @@
+Alkanet Flower,Paralyze,Light,Resist Poison,Slow
+Aloe Vera Leaf,Dream,Magic,Restore Health, Invisability
+Ambrosia,Fire,Silence, Restore Health,Magic
