@@ -54,6 +54,8 @@ void UI::displayMenu() const
               << "craft/combine - Combine ingredients\n"
               << "h - Display this help message\n"
               << "eat - consume one ingredient and learn its effects\n"
+              << "forage - gain random alchemy ingredients\n"
+              << "potion/drink - consume a potion\n"
               << "exit - Exit the program\n";
 }
 
@@ -77,6 +79,10 @@ void UI::processCommand(const std::string &command)
     }
     else if(command == "eat"){
         eat();
+    }else if(command == "forage"){
+        forage();
+    }else if(command == "drink" || command == "potion"){
+        potion();
     }
     else {
         std::cout << "Unknown command: " << command << std::endl;
@@ -111,6 +117,27 @@ void UI::combineIngredients()
         std::cerr << "Invalid input. Please enter two ingredient names separated by a comma." << std::endl;
     }
 }
+void UI::potion()
+{
+    std::string input;
+    std::cout << "enter name of potion. i.e: Potion of _______ :";
+    std::getline(std::cin, input);
+    std::istringstream iss(input);
+    std::string potionName;
+
+    if (std::getline(iss,potionName))
+    {
+        player->decreaseInventoryItemQuantity(potionName);
+    }
+    else
+    {
+        std::cerr << "Invalid input. Please try again....." << std::endl;
+    }
+}
+void UI::forage(){
+player->forage();
+}
+
 void UI::eat(){
     std::string input;
     std::cout << "Enter ingredient name: ";

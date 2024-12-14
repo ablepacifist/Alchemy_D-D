@@ -24,12 +24,10 @@ std::array<Effect, 4>& Ingredient::getEffects() {
 }
 */
 void Ingredient::learnEffect(int id, const std::string& name) {
-    std::cout << "Attempting to learn effect: " << name << std::endl;
 
     // Check if the effect is already learned
     for (const auto& effect : effects) {
         if (effect.getName() == name) {
-            std::cout << "Effect " << name << " is already known. Skipping." << std::endl;
             return;
         }
     }
@@ -38,7 +36,7 @@ void Ingredient::learnEffect(int id, const std::string& name) {
     for (int i = 0; i < 4; ++i) {
         if (effects[i].getName() == "NULL") {
             effects[i] = Effect(id, name);
-            std::cout << "Effect " << name << " learned successfully." << std::endl;
+            std::cout << "Effect " << name << " learned." << std::endl;
             return;
         }
     }

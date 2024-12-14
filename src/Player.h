@@ -47,9 +47,10 @@ public:
     void addIngredientToInventory(const Ingredient &ingredient, int quantity);
     void displayInventory() const;
     void updateInventoryItemQuantity(const std::string &ingredientName, int quantity);
-    void decreaseInventoryItemQuantity(const std::string &ingredientName);
-    void increaseInventoryItemQuantity(const std::string &ingredientName, int amount);
+    void decreaseInventoryItemQuantity(const std::string &name);
+    void increaseInventoryItemQuantity(const std::string name, int amount);
     //
+    void forage();
     void eat(const std::string &IngredientName);
     void updatePlayerIngredientList(const std::string &ingredientName, const std::array<Effect, 4> &masterEffects);
     // potions:

@@ -22,6 +22,7 @@ public:
     //getters
     Node<Ingredient>* getHead() const;
     Ingredient* getByName(const std::string& name) const;
+    Ingredient* getByIndex(int index);
     int getSize();
 };
 

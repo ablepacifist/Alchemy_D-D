@@ -26,6 +26,8 @@ private:
     void displayHelp() const;
     void endProgram();
     void eat();
+    void forage();
+    void potion();
 };
 
 #endif // UI_H

@@ -136,3 +136,18 @@ Ingredient *IngredientList::getByName(const std::string &name) const
     }
     return nullptr; // Return nullptr if the ingredient is not found
 }
+Ingredient *IngredientList::getByIndex(int index)
+{
+    Node<Ingredient> *current = head;
+    int currentIndex = 0;
+    while (current != nullptr)
+    {
+        if (currentIndex == index)
+        {
+            return &current->data;
+        }
+        current = current->next;
+        currentIndex++;
+    }
+    throw std::out_of_range("Index out of range");
+}

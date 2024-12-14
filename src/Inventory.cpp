@@ -14,13 +14,11 @@ Inventory::~Inventory()
 
 void Inventory::addItem(const InventoryItem &item)
 {
-    std::cout << "in addItem" << std::endl;
     Node<InventoryItem> *current = head;
 
     // See if we already have that in the list:
     while (current != nullptr)
     {
-        std::cout << "looking at: " << current->data.getName() << std::endl;
         if (current->data.getName() == item.getName())
         {
             // Check if it's an ingredient or potion and handle accordingly
@@ -35,14 +33,12 @@ void Inventory::addItem(const InventoryItem &item)
                 // of updating the quantity.
                 current->data.updateQuantity(current->data.getQuantity() + item.getQuantity());
             }
-            std::cout << "found existing item: " << current->data.getName() << std::endl;
-            std::cout << "new quantity: " << current->data.getQuantity() << std::endl;
             return;
         }
         current = current->next;
     }
 
-    std::cout << "item not in list yet" << std::endl;
+    //std::cout << "item not in list yet" << std::endl;
     // Add new item to the list
     Node<InventoryItem> *newItem = new Node<InventoryItem>(item);
     newItem->next = head;
