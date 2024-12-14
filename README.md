@@ -14,6 +14,8 @@ if you are Kail or Devon, you don't need to do this
               << "craft/combine - Combine ingredients\n"
               << "h - Display this help message\n"
               << "eat - consume one ingredient and learn its effects\n"
+              << "forage - gain random alchemy ingredients\n"
+              << "potion/drink - consume a potion\n"
               << "exit - Exit the program\n";
 # end Program
 to end the program and save all data into the txt files simply enter "exit" comand
