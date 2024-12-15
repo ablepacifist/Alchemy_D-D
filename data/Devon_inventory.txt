@@ -1,6 +1,33 @@
-Potion,Seeking,NULL,NULL,NULL,2
-Ingredient,Apple,13
-Ingredient,Wheat Grain,18
-Ingredient,Garlic,11
-Ingredient,Tomato,8
-Potion,Restore Health,NULL,NULL,NULL,1
+Ingredient,Beetle Juice,4
+Ingredient,Wolf Teeth,4
+Ingredient,Ginseng Root,5
+Ingredient,Carrot,8
+Ingredient,Bog Beacon Mushroom,5
+Ingredient,Dragon Tongue Flower,6
+Ingredient,Imp Gall,4
+Ingredient,Lavender Sprig,4
+Ingredient,Nightshade,4
+Ingredient,Blackberry,12
+Ingredient,Blue Entolon Cup,5
+Ingredient,Ambrosia,4
+Ingredient,Fly Amanita Cup,4
+Ingredient,Mutton,4
+Ingredient,Green Stained Cup,4
+Ingredient,Ironwood Nut,6
+Ingredient,Flax Seed,4
+Ingredient,Carin Mushroom,7
+Ingredient,Ogers Teeth,7
+Ingredient,Spider Silk,9
+Ingredient,Grapes,4
+Ingredient,Dryad Saddle Polyspore Mushroom,4
+Ingredient,Alvera Leaf,4
+Ingredient,Pennal Seed,10
+Ingredient,Spindel Stick,8
+Ingredient,Potato,4
+Ingredient,Lettuce,6
+Ingredient,Wheat Grain,7
+Ingredient,Minotaur Horn,10
+Ingredient,Lady Mantle Leaves,7
+Ingredient,Green Stained Cap,9
+Ingredient,Taproot,10
+Ingredient,Bonemeal,7
